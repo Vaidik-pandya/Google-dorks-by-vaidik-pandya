@@ -126,4 +126,5 @@ site:config or intext:config
 ```
 site:pastebin.com intext:APIKey | intext:APISecret | intext:API-Token -github
 ```
-## Credits:TakSec 
+## Credits:
+[@TakSec](https://github.com/TakSec)
